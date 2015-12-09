@@ -1,7 +1,7 @@
 /* global describe, before, beforeEach, after, it */
 'use strict';
 
-require("mocha-as-promised")();
+require("mocha")();
 
 var path = require('path');
 var projectRoot = path.resolve(__dirname, '..');
