@@ -40,7 +40,7 @@ iOS is coming soon, just waiting on a way to either make it work with the new WK
 - PhantomJS - [http://phantomjs.org/](http://phantomjs.org/)
 	- Headless webkit for running tests
 - Cordova-icon and Cordova-splash - [https://github.com/AlexDisler/cordova-icon/](https://github.com/AlexDisler/cordova-icon/) and [https://github.com/AlexDisler/cordova-splash/](https://github.com/AlexDisler/cordova-splash/)
-  - `npm install -g cordova-icon` and `npm install cordova-splash`
+  - `npm install -g cordova-icon` and `npm install -g cordova-splash`
 
 ## Getting started
 
