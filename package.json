@@ -13,12 +13,7 @@
   "keywords": [
     "cordova"
   ],
-  "licenses": [
-    {
-      "type": "GPLv3",
-      "url": "http://www.gnu.org/licenses/gpl.html"
-    }
-  ],
+  "license": "GPL-3.0",
   "dependencies": {
     "cordova-icon": "^0.3.0",
     "cordova-splash": "^0.3.0",
